@@ -16,7 +16,7 @@
 
 
 ## Rules
-* [FOO Rules](https://faq.group.com/knowledgebase/was-muss-ich-bei-der-nutzung-von-github-zwingend-beachten/)
+* ...
 
 
 ## GitHub User Account Setup
