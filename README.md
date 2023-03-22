@@ -32,7 +32,7 @@
 ## Repository Setup
 
 #### Naming Convention for Personal Repositories
-`<BONPRIX_EMAIL_USER_NAME>--<REPOSITORY_NAME>` e.g. `john.doe--sandbox`
+`<FOO_EMAIL_USER_NAME>--<REPOSITORY_NAME>` e.g. `john.doe--sandbox`
 
 #### Visibility
   * `public`&nbsp; Only available for organization owners. If you want to publish an OSS repository [get in touch with us](#contact).
