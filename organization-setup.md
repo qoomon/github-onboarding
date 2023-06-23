@@ -30,10 +30,3 @@
 
 #### Teams
 ...
-
-
-## How To Request an Organization Invite
-* Create a new invite request at [FOO It-Shop](https://it-shop.FOO.com/) -> click `Start a new request` -> click `Permissions` -> select `GitHub-Orga: FOO` -> click `Add to shopping cart` -> click `Checkout`
-* Send your cost center number (Kostenstelle) to bengt.brodersen@FOO.net
-* After request permission is granted, you will receive an invitation email from GitHub. Accept the invitation with any account you like.
-* Carfully read [README](README.md)
