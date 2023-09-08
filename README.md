@@ -40,7 +40,7 @@
     - In that case you **should** use you team name as a [namespace](#team-and-personal-namespaces)
 ##### Team and Personal Namespaces    
 - `<TEAM/GITHUB_USER_NAME>--<REPOSITORY_NAME>`
-  - e.g. `team-red-herring--wiki` or `john.doe--sandbox`
+  - e.g. `team-rainbow--wiki` or `john.doe--sandbox`
 
 #### Visibility
   * `public`&nbsp; Only available for organization owners. If you want to publish an OSS repository [get in touch with us](#contact).
