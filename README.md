@@ -14,9 +14,8 @@
 * [GitHub Actions](#github-actions)
   * [OpenID Connect](#openid-connect)
 
-
 ## Rules
-* ...
+- [Naming Conventions](#naming-convention)
 
 
 ## GitHub User Account Setup
@@ -31,8 +30,16 @@
 
 ## Repository Setup
 
-#### Naming Convention for Personal Repositories
-`<FOO_EMAIL_USER_NAME>--<REPOSITORY_NAME>` e.g. `john.doe--sandbox`
+#### Naming Convention
+- `<PRODUCT/SERVICE/DOMAIN>[-MODULE]`
+  - e.g. `juice-shop` or with module names `juice-shop-docs`, `juice-shop-frontend`, `juice-shop-api`, `juice-shop-infrastructure`, ...
+- Repository name **should not** contain team name
+  - Except the team name is the same as the product/service/domain
+  - Except it is a product/service/domain unrelated repository e.g. team specific code or tooling
+    - In that case you **should** use you team name as a [namespace](#team-and-personal-namespaces)
+##### Team and Personal Namespaces    
+- `<TEAM/GITHUB_USER_NAME>--<REPOSITORY_NAME>`
+  - e.g. `team-red-herring--wiki` or `john.doe--sandbox`
 
 #### Visibility
   * `public`&nbsp; Only available for organization owners. If you want to publish an OSS repository [get in touch with us](#contact).
