@@ -160,10 +160,10 @@ Add team contact informations to README footer, see [README Template](README.tem
 
 ---
 ## Contact
-* Vorname Nachname
-  * <a href="https://teams.microsoft.com/l/chat/0/0?users=vorname.nachname.ext@FOO.net">
-      <img align="center" src="https://img.icons8.com/fluency/24/microsoft-teams-2019.png"> Vorname Nachname
+* John Doe 
+  * <a href="https://teams.microsoft.com/l/chat/0/0?users=JOHN.DOE@EXAMPLE.NET">
+      <img align="center" src="https://img.icons8.com/fluency/24/microsoft-teams-2019.png"> John Doe
     </a>
-  * <a href="mailto:vorname.nachname.ext@FOO.net">
-      <img align="center" src="https://img.icons8.com/fluency/24/mail.png"> vorname.nachname.ext@FOO.net
+  * <a href="JOHN.DOE@EXAMPLE.NET">
+      <img align="center" src="https://img.icons8.com/fluency/24/mail.png"> john.doe@example.net
     </a> 
