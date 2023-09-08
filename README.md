@@ -15,7 +15,8 @@
   * [OpenID Connect](#openid-connect)
 
 ## Rules
-- [Naming Conventions](#naming-convention)
+- [Repository Naming Conventions](#repository-naming-convention)
+- [Readme File Conventions](#readme-file-conventions)
 
 
 ## GitHub User Account Setup
@@ -30,7 +31,7 @@
 
 ## Repository Setup
 
-#### Naming Convention
+#### Repository Naming Convention
 - `<PRODUCT/SERVICE/DOMAIN>[-MODULE]`
   - e.g. `juice-shop` or with module names `juice-shop-docs`, `juice-shop-frontend`, `juice-shop-api`, `juice-shop-infrastructure`, ...
 - Repository name **should not** contain team name
