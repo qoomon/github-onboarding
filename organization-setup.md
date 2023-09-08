@@ -25,6 +25,9 @@
 - https://github.com/actions/stale
 - https://github.com/github/codeql-action
 
+#### Handy GitHub Bots
+- https://probot.github.io/apps/settings/
+
 ## Organization Structure
 
 #### Teams
