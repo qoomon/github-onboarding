@@ -17,14 +17,12 @@
   *  Check `Restrict email notifications to only approved or verified domains`
 * GitHub Docs [Restricting Email Notifications](https://docs.github.com/en/enterprise-server@3.4/organizations/keeping-your-organization-secure/managing-security-settings-for-your-organization/restricting-email-notifications-for-your-organization#restricting-email-notifications)
 
-#### Install Apps
-* Install [Stale Bot](https://github.com/marketplace/stale)
-
 #### Misc
 * https://github.com/organizations/FOO/settings/member_privileges#repo_comments
   * Check `Allow members to see comment author's profile name in private repositories`
 
-
+#### Handy GitHub Actions
+- https://github.com/actions/stale
 
 ## Organization Structure
 
