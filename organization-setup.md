@@ -23,6 +23,7 @@
 
 #### Handy GitHub Actions
 - https://github.com/actions/stale
+- https://github.com/github/codeql-action
 
 ## Organization Structure
 
