@@ -41,6 +41,7 @@
 ##### Team and Personal Namespaces    
 - `<TEAM/GITHUB_USER_NAME>--<REPOSITORY_NAME>`
   - e.g. `team-rainbow--wiki` or `john.doe--sandbox`
+  - This pattern also comes in handy when fork a repository.
 
 #### Visibility
   * `public`&nbsp; Only available for organization owners. If you want to publish an OSS repository [get in touch with us](#contact).
